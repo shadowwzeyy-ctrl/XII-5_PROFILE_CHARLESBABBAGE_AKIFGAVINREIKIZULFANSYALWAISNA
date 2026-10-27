@@ -1,0 +1,80 @@
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <title>Charles Babbage</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <!-- Judul utama -->
+    <h1>Charles Babbage</h1>
+
+    <!-- Foto Charles Babbage -->
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Charles_Babbage_-_1860.jpg/250px-Charles_Babbage_-_1860.jpg"
+    alt="Charles Babbage" width="200">
+
+    <!-- Kehidupan pribadi -->
+    <h2>Kehidupan Pribadi</h2>
+    <p>
+        Charles Babbage lahir pada 26 Desember 1791 di London,
+        Inggris. Ia adalah seorang matematikawan dan penemu yang
+        tertarik pada matematika dan mesin.
+    </p>
+
+    <!-- Pendidikan -->
+    <h2>Pendidikan</h2>
+    <p>
+        Charles Babbage pernah belajar di Trinity College,
+        Cambridge. Ia memiliki minat besar dalam matematika
+        dan mekanika sejak muda.
+    </p>
+
+    <!-- Hobi dan minat -->
+    <h2>Hobi dan Minat</h2>
+    <p>
+        Babbage tertarik pada matematika, ilmu pengetahuan,
+        dan mesin. Ia suka memikirkan cara agar perhitungan
+        dapat dilakukan dengan lebih mudah.
+    </p>
+
+    <!-- Penemuan -->
+    <h2>Penemuan</h2>
+    <p>
+        Salah satu karyanya adalah Difference Engine yang
+        dirancang untuk membantu perhitungan matematika.
+        Ia juga merancang Analytical Engine pada tahun 1830-an.
+    </p>
+
+    <!-- Kontribusi -->
+    <h2>Kontribusi dalam Komputer</h2>
+    <p>
+        Analytical Engine memiliki konsep yang mirip dengan
+        komputer modern. Karena gagasannya, Charles Babbage
+        dikenal sebagai Bapak Komputer.
+    </p>
+
+    <!-- Daftar karya -->
+    <h2>Karya Charles Babbage</h2>
+    <ul>
+        <li>Difference Engine</li>
+        <li>Analytical Engine</li>
+    </ul>
+
+    <!-- Urutan perkembangan karya -->
+    <h2>Perkembangan Penemuan</h2>
+    <ol>
+        <li>Merancang Difference Engine pada tahun 1820-an.</li>
+        <li>Merancang Analytical Engine pada tahun 1830-an.</li>
+    </ol>
+
+    <!-- Tanggal meninggal -->
+    <h2>Tanggal Meninggal</h2>
+    <p>
+        Charles Babbage meninggal dunia pada 18 Oktober 1871
+        di London, Inggris. Gagasannya menjadi bagian penting
+        dalam sejarah perkembangan komputer.
+    </p>
+
+</body>
+</html>
